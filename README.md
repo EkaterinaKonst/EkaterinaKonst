@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @EkaterinaKonst
-- 👀 I’m interested in data sciense, ML and creating a Python apps
 - 🌱 I’m currently search a job 
 - 📫 How to reach me: my email feldsher2812@gmail.com
 
